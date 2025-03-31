@@ -1,0 +1,27 @@
+[submodule "dao"]
+	path = dao
+	url = https://github.com/berekvolgyipeter/cyfrin-advanced-foundry-dao.git
+[submodule "account-abstraction"]
+	path = account-abstraction
+	url = git@github.com:berekvolgyipeter/cyfrin-advanced-foundry-account-abstraction.git
+[submodule "merkle-airdrop"]
+	path = merkle-airdrop
+	url = git@github.com:berekvolgyipeter/cyfrin-advanced-foundry-merkle-airdrop.git
+[submodule "ccip"]
+	path = ccip
+	url = git@github.com:berekvolgyipeter/cyfrin-advanced-foundry-ccip-rebase-token.git
+[submodule "stablecoin"]
+	path = stablecoin
+	url = git@github.com:berekvolgyipeter/cyfrin-advanced-foundry-defi-stablecoin.git
+[submodule "uups"]
+	path = uups
+	url = git@github.com:berekvolgyipeter/cyfrin-advanced-foundry-uups.git
+[submodule "nft"]
+	path = nft
+	url = git@github.com:berekvolgyipeter/cyfrin-advanced-foundry-nft.git
+[submodule "erc20"]
+	path = erc20
+	url = git@github.com:berekvolgyipeter/cyfrin-advanced-foundry-erc20.git
+[submodule "smart-contract-lottery"]
+	path = smart-contract-lottery
+	url = git@github.com:berekvolgyipeter/cyfrin-foundry-smart-contract-lottery.git
